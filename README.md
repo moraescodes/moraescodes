@@ -10,10 +10,9 @@
 
 ### Hello, I'm Carlos, how are you?
 
-I am a full stack developer and enthusiast of UX and the best technologies for Web and Mobile development.
+I am a full stack developer and enthusiast of Clean Architecture.
 
-- Main techs: Node, ReactJS, React Native, SQL, NoSQL, Docker
-- Currently mastering Typescript, Design Pattern
+- Main techs: Node, Nest,ReactJS, Next, React Native, SQL, NoSQL, Docker
 
 
 "Sometimes it is the people no one can imagine anything of who do the things no one can imagine." - Alan Turing
